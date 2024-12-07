@@ -145,4 +145,4 @@ The following tools and libraries are utilized:
 ## 👤 ** Author**
 
 - **Oluwagbemileke Akande**
-- LinkedIn: [text](https://www.linkedin.com/in/leke-akande)
+- LinkedIn: [https://www.linkedin.com/in/leke-akande](https://www.linkedin.com/in/leke-akande)
